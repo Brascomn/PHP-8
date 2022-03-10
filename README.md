@@ -1,35 +1,22 @@
 # PHP-8
 
- Exercicios de Guanabara e Programadores Abordo
+Curso Completo atual e do Jeito Certo de João Ribeiro
 
 
-Olá! Neste repositorio estão codificados os exemplos de execicios do curso de javaScript. Além disso também possui algumas explicações a mais.
+Olá! Neste repositorio estão codificados algumas das aulas Php 8 de João Ribeiro do curso de PHP 8.Para Inciantes como Eu, e experiente para update.
 
+## O retalho de algumas aulas, dá-se ao conhecimento pleno que tenho algumas aulas, por isso codifiquei apenas as aulas nessarias ao meu ver.
 ---
 
-# **Funções**
-* Funções que retornam valores
-* Funções com valores padrão
-* Funões autoinvocaveis
-* Variavel que recebem funções
-* Funções anonimas
-* Funções CallBack
-* THIS
-* * Call
-* * APlly
-* * Bind
-* * Arrow Funtcion
-
----
-
-# **Objectos**
-* Estrutura básica 
-* Objectos com array 
-* Objecto  de Variável complexa
-* Função no objecto
-* Juntar varios objectos
-* Armazenar valores de chave em uma variavel
-* Propriedade (key e values)
-* Prevenção
-# Escopo, let, const, hosting
-# Map, Filter, Reduce
+# **Como :**
+* Variáveis.
+* Strings, Concatenação, Herdoc e Nowdoc.
+* Caracter de escape
+* Funções para operador strings
+* Exercicios com strings e ativação de módulos
+* Array
+* Instrução condicional operador ternário
+* Instrução condicional Match
+* Ciclo Foreach
+* Break, Continue e Goto
+* Parámetro de Funções
