@@ -20,3 +20,10 @@ Olá! Neste repositorio estão codificados algumas das aulas Php 8 de João Ribe
 * Ciclo Foreach
 * Break, Continue e Goto
 * Parámetro de Funções
+* Named Arguments
+* Return
+* Escopo
+* Funções Anónimas
+* Closures e Arrow Function
+* Generators
+* Class
