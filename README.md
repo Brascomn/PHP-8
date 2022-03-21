@@ -27,3 +27,17 @@ Olá! Neste repositorio estão codificados algumas das aulas Php 8 de João Ribe
 * Closures e Arrow Function
 * Generators
 * Class
+* Criação de Obejtos e Instancia
+* Instancia e Construct
+* Property Promotior
+* Classes Anónimas
+* Herança de Classes
+* Overrid em classes
+* Impedir Herança com expressão final
+* Acess Levels
+* Var e Object Acess
+* Getters e Setters
+* Static
+* Ex: de uso Static
+* Const, Define e Defined
+* Constantes Mágicas
