@@ -41,3 +41,15 @@ Olá! Neste repositorio estão codificados algumas das aulas Php 8 de João Ribe
 * Ex: de uso Static
 * Const, Define e Defined
 * Constantes Mágicas
+* Classes Abstratas
+* Traits e a sua Utilidade
+* Introdução ao Include
+* Require e diferença ao Include
+* Include_once, Require_once e Return nas inclusões
+* Declaration Types
+* Strinct Types
+* Type Conversions
+* Isset, Empty, Is null e Unset
+* Null Coalscing Operador
+* Verificar Tipos de Variáveis
+* Print_r, Var_Dump e Var_Export

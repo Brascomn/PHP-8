@@ -1,0 +1,42 @@
+<!-- CLASSES ABSTRATAS 
+
+É CONSTITUIDA OR UMA IMPLEMENTAÇÃO PARCIAL  A PARTIR DAS QUAIS OUTRAS CLASSES PODEM CRESCER.
+ QUANDO UMA CLASSE É DECLARADA COMO ABSTRATA, ISSO SIGNIFICA QUE ELA TEM MÉTODOS INCOMPLETOS QUE,
+ OBRIGATORIAMENTE TÊM QUE SER IMPLEMENTADOS NAS CLASSES QUE A HERDAM.
+
+
+ASCLASSES ABASTRTAS NÃO PODEM SER INSTACIADAS. SERVEM APENAS PARA PODEREM SER HERDADAS POR OUTRAS CLASSES.
+
+-->
+
+<?php
+
+abstract class forma{
+
+    public $largura = 100;
+    public $altura = 10;
+
+    abstract public function area();
+
+    function altura(){
+        return $this->altura;
+    }
+}
+
+// $b= new forma();
+
+class rect extends forma{
+    public function area(){
+        return $this->altura *$this->altura;
+    }
+}
+
+$r = new rect ();
+echo $r->area();
+echo '<br>';
+echo $r->altura();
+?>
+<!-- 
+UMA CLASSE ABSTRATA PERMITE ENTÃO UMA IMPLEMENTAÇÃO PARCIAL DE MÉTODOS E A DEFINIÇÃO DE UM MODELO DE IMPLEMENTAÇÃO DE OUTROS MÉTODOS.
+ISTO PERMITE EM MODELOS DE ORIGRAMAÇÃO ORIENTADAS A OBJECTOS, JUNTAMENTE COM OUTRO MECANISMO, DESIGNADO POR INTERFACES, A ESTRUTURAÇÃO DO CÓDIGO QUE SEGUE OS MELHORES PADRÕES DE ESCRITA.
+ -->
